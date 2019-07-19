@@ -1,6 +1,6 @@
 {
   "posts": [
-    "todoList": {
+    {
       "id": 1,
       "title": "Hello"
     }
