@@ -2,11 +2,13 @@
   "todolist": [
     {
       "id": 0,
-      "title": "A faireeeeeee"
+      "title": "A faireeeeeee",
+      "description": "A faireeeeeee"
     },
     {
       "id": 1,
-      "title": "Plus à faire"
+      "title": "Plus à faire titre",
+      "description": "Plus afaire description" 
     }
   ]
 }
