@@ -1,0 +1,19 @@
+{
+  todolist: [
+        {
+          id: 1,
+          title: 'Richard Hendricks',
+          description: 'richard@piedpiper.com',
+        },
+        {
+          id: 2,
+          title: 'Bertram Gilfoyle',
+          description: 'gilfoyle@piedpiper.com',
+        },
+        {
+          id: 3,
+          title: 'Dinesh Chugtai',
+          description: 'dinesh@piedpiper.com',
+        },
+      ],
+}
