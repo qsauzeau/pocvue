@@ -1,9 +1,9 @@
 {
-  "todolist": [
+  "todo": [
     {
       "id": 1,
-      "title": "Un exemple de premier titre",
-      "description": "Un exemple de première description"
+      "title": "Un exemple de premier titre"
+    
     }
   ],
   "profile": {
