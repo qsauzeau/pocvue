@@ -1,9 +1,8 @@
 {
-  "todo": [
+  "posts": [
     {
       "id": 1,
-      "title": "Un exemple de premier titre"
-    
+      "title": "hello"
     }
   ],
   "profile": {
